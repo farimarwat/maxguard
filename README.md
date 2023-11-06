@@ -18,7 +18,7 @@ to detect frida injection.
     implementation("io.github.farimarwat:maxguard:1.1")
 ```
 
-### Usabe
+### Usage
 ```
 override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
