@@ -15,7 +15,7 @@ to detect frida injection.
 
 ### Implementation
 ```
-    implementation("io.github.farimarwat:maxguard:1.1")
+    implementation("io.github.farimarwat:maxguard:1.2")
 ```
 
 ### Usage
