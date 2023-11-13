@@ -1,5 +1,5 @@
 # MaxGuard
-An android library for android app security against reverse engineering
+An android library for android app security against reverse engineering. Modifier
 
 MaxGuard is a maximum security layer to protect against reverse engineering via frida. This library tries to detect frida injection and close the app if injection is found.
 
