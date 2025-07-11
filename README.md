@@ -15,7 +15,7 @@ to detect frida injection.
 
 ### Implementation
 ```
-    implementation("io.github.farimarwat:maxguard:1.2")
+    implementation("io.github.farimarwat:maxguard:1.3")
 ```
 
 ### Usage
@@ -26,3 +26,7 @@ override fun onCreate(savedInstanceState: Bundle?) {
             .startMaxGuard()
 }
 ```
+
+### Whats New
+1.3: Support for 16k memory page
+
